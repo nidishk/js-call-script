@@ -1,0 +1,25 @@
+{
+  "name": "js-Callscript",
+  "version": "1.0.0",
+  "author": "Nidish Ramakrishnan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-2": "^6.18.0",
+    "babel-preset-stage-3": "^6.17.0",
+    "babel-register": "^6.23.0"
+  },
+  "dependencies": {
+    "csv-reader": "^1.0.1",
+    "ethereum-bip44": "^2.1.3",
+    "ethereumjs-tx": "^1.3.3",
+    "ethereumjs-util": "^5.1.4",
+    "keythereum": "^1.0.2",
+    "underscore": "^1.8.3",
+    "web3": "^0.20.0"
+  }
+}

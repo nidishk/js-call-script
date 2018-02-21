@@ -1,0 +1,8 @@
+node_modules/
+build
+environments/
+environments/
+package-lock.json
+
+# test
+xunit_testresults.xml
